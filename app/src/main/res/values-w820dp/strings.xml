@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_next">NextActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="IRONMAN">IRON MAN</string>
+    <string name="HAWKEYE">HAWKEYE</string>
+    <string name="BLACKWIDOW">BLACK WIDOW</string>
+    <string name="HULK">HULK</string>
+    <string name="CAPTAMERICA">CAPT AMERICA</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
